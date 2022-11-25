@@ -1,0 +1,25 @@
+{
+  "name": "verter",
+  "version": "1.0.0",
+  "scripts": {
+    "tailwind": "tailwindcss -i src/css/input.css -o src/index.css --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "@html-eslint/eslint-plugin": "^0.15.0",
+    "@html-eslint/parser": "^0.15.0",
+    "babel-loader": "^9.1.0",
+    "eslint": "^8.22.0",
+    "tailwindcss": "^3.2.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.13"
+  },
+  "main": ".eslintrc.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

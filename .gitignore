@@ -1,0 +1,4 @@
+node_modules
+src/js/video.js
+src/js/videojs-dash.min.js
+src/css/video-player.css
